@@ -1,0 +1,6 @@
+node_modules
+tmp/
+logs/
+*.jar
+app/config/development.js
+.tm_properties
